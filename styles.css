@@ -1,0 +1,47 @@
+/* add your CSS here */
+body{
+    
+    width: 700px;
+    padding: 8px;
+    font-family:papyrus, fantasy;
+    
+}
+
+.pic{
+    width: 300px;
+    height: 200px;
+}
+.info{
+    border: 1px solid black;
+    padding: 8px;
+    width: 300px;
+    height: 400px;
+    color: #ff99cc;
+}
+#fact{
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+    color: rgb(164, 9, 138)
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+h3{
+    color: rgb(164, 9, 138)
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    float:right;
+    width: 300px;
+    box-shadow: 3px 3px rgb(164, 9, 138), -1em 0 .4em pink;
+    border: 3px solid black;
+    height: 700px;
+    margin: 0.8em;
+    padding: 5px;
+    background-color: #ffffe6;
+}
+
